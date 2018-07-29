@@ -1,0 +1,1248 @@
+[{
+    "id": "5a1e0c01c2c29108bc0b1db6",
+    "name": "Robert Bosch SEA Campus",
+    "description": null,
+    "lmsDeviceZones": [],
+    "devices": [],
+    "floorPlanSerialId": null,
+    "polygonLinks": [],
+    "tags": {},
+    "domainInformations": {
+        "energyDomainInformation": {
+            "name": null,
+            "topologyElementConfiguration": {
+                "weekdayConfigurations": {
+                    "MONDAY": "00:00",
+                    "TUESDAY": "00:00",
+                    "WEDNESDAY": "00:00",
+                    "THURSDAY": "00:00",
+                    "FRIDAY": "00:00",
+                    "SATURDAY": "00:00",
+                    "SUNDAY": "00:00"
+                }
+            }
+        }
+    },
+    "systemIds": [],
+    "timezone": "Singapore",
+    "imageUrl": "",
+    "buildings": [
+        {
+            "id": "80985f76-b4d3-4ad0-827f-348f",
+            "name": "SGP 101",
+            "description": null,
+            "lmsDeviceZones": [],
+            "devices": [],
+            "floorPlanSerialId": null,
+            "polygonLinks": [],
+            "tags": {
+                "associatedCapability": []
+            },
+            "domainInformations": {
+                "energyDomainInformation": {
+                    "name": null,
+                    "topologyElementConfiguration": {
+                        "weekdayConfigurations": {
+                            "MONDAY": "00:00",
+                            "TUESDAY": "00:00",
+                            "WEDNESDAY": "00:00",
+                            "THURSDAY": "00:00",
+                            "FRIDAY": "00:00",
+                            "SATURDAY": "00:00",
+                            "SUNDAY": "00:00"
+                        }
+                    }
+                }
+            },
+            "address": null,
+            "latitude": 0,
+            "longitude": 0,
+            "floors": [
+                {
+                    "id": "e5481bae-91c6-4169-d7ba-59c1",
+                    "name": "Outdoor Area",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {
+                                    "MONDAY": "00:00",
+                                    "TUESDAY": "00:00",
+                                    "WEDNESDAY": "00:00",
+                                    "THURSDAY": "00:00",
+                                    "FRIDAY": "00:00",
+                                    "SATURDAY": "00:00",
+                                    "SUNDAY": "00:00"
+                                }
+                            }
+                        }
+                    },
+                    "rooms": [
+                        {
+                            "id": "7cb8e266-0d87-f31b-075c-8282",
+                            "name": "Parking Lots",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": {
+                                "energyDomainInformation": {
+                                    "name": null,
+                                    "topologyElementConfiguration": {
+                                        "weekdayConfigurations": {
+                                            "MONDAY": "00:00",
+                                            "TUESDAY": "00:00",
+                                            "WEDNESDAY": "00:00",
+                                            "THURSDAY": "00:00",
+                                            "FRIDAY": "00:00",
+                                            "SATURDAY": "00:00",
+                                            "SUNDAY": "00:00"
+                                        }
+                                    }
+                                }
+                            },
+                            "type": "",
+                            "zones": [
+                                {
+                                    "id": "648b3456-6e7d-d8ea-0197-834b",
+                                    "name": "Parking Lots 3 & 4",
+                                    "description": null,
+                                    "lmsDeviceZones": [],
+                                    "devices": [],
+                                    "floorPlanSerialId": null,
+                                    "polygonLinks": [],
+                                    "tags": {
+                                        "associatedCapability": [
+                                            "space"
+                                        ]
+                                    },
+                                    "domainInformations": {
+                                        "energyDomainInformation": {
+                                            "name": null,
+                                            "topologyElementConfiguration": {
+                                                "weekdayConfigurations": {
+                                                    "MONDAY": "00:00",
+                                                    "TUESDAY": "00:00",
+                                                    "WEDNESDAY": "00:00",
+                                                    "THURSDAY": "00:00",
+                                                    "FRIDAY": "00:00",
+                                                    "SATURDAY": "00:00",
+                                                    "SUNDAY": "00:00"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "4e9ec20e-ae9a-2034-e237-dd6a",
+                                    "name": "Parking Lots 5 & 6",
+                                    "description": null,
+                                    "lmsDeviceZones": [],
+                                    "devices": [],
+                                    "floorPlanSerialId": null,
+                                    "polygonLinks": [],
+                                    "tags": {
+                                        "associatedCapability": [
+                                            "space"
+                                        ]
+                                    },
+                                    "domainInformations": {
+                                        "energyDomainInformation": {
+                                            "name": null,
+                                            "topologyElementConfiguration": {
+                                                "weekdayConfigurations": {
+                                                    "MONDAY": "00:00",
+                                                    "TUESDAY": "00:00",
+                                                    "WEDNESDAY": "00:00",
+                                                    "THURSDAY": "00:00",
+                                                    "FRIDAY": "00:00",
+                                                    "SATURDAY": "00:00",
+                                                    "SUNDAY": "00:00"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                {
+                                    "id": "c2f99919-d1dc-9032-bbad-4af0",
+                                    "name": "Parking Lots 7 & 8",
+                                    "description": null,
+                                    "lmsDeviceZones": [],
+                                    "devices": [],
+                                    "floorPlanSerialId": null,
+                                    "polygonLinks": [],
+                                    "tags": {
+                                        "associatedCapability": [
+                                            "space"
+                                        ]
+                                    },
+                                    "domainInformations": {
+                                        "energyDomainInformation": {
+                                            "name": null,
+                                            "topologyElementConfiguration": {
+                                                "weekdayConfigurations": {
+                                                    "MONDAY": "00:00",
+                                                    "TUESDAY": "00:00",
+                                                    "WEDNESDAY": "00:00",
+                                                    "THURSDAY": "00:00",
+                                                    "FRIDAY": "00:00",
+                                                    "SATURDAY": "00:00",
+                                                    "SUNDAY": "00:00"
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": "e28eb197-f257-e316-3c5a-cb63",
+                            "name": "Smoking Area",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": {
+                                "energyDomainInformation": {
+                                    "name": null,
+                                    "topologyElementConfiguration": {
+                                        "weekdayConfigurations": {
+                                            "MONDAY": "00:00",
+                                            "TUESDAY": "00:00",
+                                            "WEDNESDAY": "00:00",
+                                            "THURSDAY": "00:00",
+                                            "FRIDAY": "00:00",
+                                            "SATURDAY": "00:00",
+                                            "SUNDAY": "00:00"
+                                        }
+                                    }
+                                }
+                            },
+                            "type": "",
+                            "zones": []
+                        }
+                    ]
+                },
+                {
+                    "id": "23a05a42-1177-4bec-9668-f9b304e060ce",
+                    "name": "Basement 2",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "8592f5e6-dfbc-4c49-88ce-85f348b0dbea",
+                    "name": "Basement 1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "8d586b8b-2a2f-4753-9776-f47eb8b63be4",
+                    "name": "1st Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "706428be-142c-4b8c-8d42-782cf2cd94fa",
+                    "name": "2nd Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "29288ab3-8542-f84b-b884-0d5d",
+                    "name": "3rd Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": [
+                        {
+                            "id": "e7287e17-6600-63da-9af9-3bde",
+                            "name": "Meeting Room 3-1",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": {
+                                "energyDomainInformation": {
+                                    "name": null,
+                                    "topologyElementConfiguration": {
+                                        "weekdayConfigurations": {
+                                            "MONDAY": "00:00",
+                                            "TUESDAY": "00:00",
+                                            "WEDNESDAY": "00:00",
+                                            "THURSDAY": "00:00",
+                                            "FRIDAY": "00:00",
+                                            "SATURDAY": "00:00",
+                                            "SUNDAY": "00:00"
+                                        }
+                                    }
+                                }
+                            },
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "34deb38e-b4b5-9da8-5137-e7f2",
+                            "name": "Meeting Room 3-2",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": null,
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "66f63336-47ac-d321-d169-c92d",
+                            "name": "Meeting Room 3-3",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": null,
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "ce0bc0b1-b207-eeb9-9d7c-c598",
+                            "name": "Meeting Room 3-4",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": null,
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "6117845c-79e1-8e93-9930-b816",
+                            "name": "Office Swaroop",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": {
+                                "energyDomainInformation": {
+                                    "name": null,
+                                    "topologyElementConfiguration": {
+                                        "weekdayConfigurations": {}
+                                    }
+                                }
+                            },
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "d9ca18fc-1a6e-1554-cf77-edd7",
+                            "name": "Office Thomas J.",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": null,
+                            "type": "",
+                            "zones": []
+                        },
+                        {
+                            "id": "a1b1cf15-96f6-6d66-7559-7ad2",
+                            "name": "Office Thomas F.",
+                            "description": null,
+                            "lmsDeviceZones": [],
+                            "devices": [],
+                            "floorPlanSerialId": null,
+                            "polygonLinks": [],
+                            "tags": {
+                                "associatedCapability": []
+                            },
+                            "domainInformations": null,
+                            "type": "",
+                            "zones": []
+                        }
+                    ]
+                },
+                {
+                    "id": "0a4bfc01-9c27-45d7-9f29-1ca5f8074166",
+                    "name": "4th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "7bcf6da0-58c1-4282-8344-72246457fe20",
+                    "name": "5th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "4f654407-1e62-400f-b874-cfe171022cea",
+                    "name": "6th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "06480ae9-3b6a-fc05-546a-399b",
+                    "name": "7th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {
+                                    "MONDAY": "00:00",
+                                    "TUESDAY": "00:00",
+                                    "WEDNESDAY": "00:00",
+                                    "THURSDAY": "00:00",
+                                    "FRIDAY": "00:00",
+                                    "SATURDAY": "00:00",
+                                    "SUNDAY": "00:00"
+                                }
+                            }
+                        }
+                    },
+                    "rooms": []
+                },
+                {
+                    "id": "af9f6bbc-f635-f280-471e-285a",
+                    "name": "Lower Roof",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {
+                                    "MONDAY": "00:00",
+                                    "TUESDAY": "00:00",
+                                    "WEDNESDAY": "00:00",
+                                    "THURSDAY": "00:00",
+                                    "FRIDAY": "00:00",
+                                    "SATURDAY": "00:00",
+                                    "SUNDAY": "00:00"
+                                }
+                            }
+                        }
+                    },
+                    "rooms": []
+                }
+            ],
+            "elevators": [
+                {
+                    "id": "1aa8bba1-47c5-302c-3f4e-94a8",
+                    "name": "PL1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827ebd407b5",
+                            "name": "Bosch Test Sensor",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "MonoSpace 500",
+                    "oemName": "Kone",
+                    "type": "Passenger",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 2000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 2000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 2000
+                },
+                {
+                    "id": "71a33e5e-5f43-478d-b5ce-f7adfcd2cb0b",
+                    "name": "PL2",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827eb04f60d",
+                            "name": "Bosch Elevator Sensor (b827eb04f60d)",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "MonoSpace 500",
+                    "oemName": "Kone",
+                    "type": "Passenger",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 2000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 2000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 2000
+                },
+                {
+                    "id": "bc62ebf9-8ccd-4276-b99d-fdbaed65e5be",
+                    "name": "PL3",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827eb1368b0",
+                            "name": "Bosch Elevator Sensor (b827eb1368b0)",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "MonoSpace 500",
+                    "oemName": "Kone",
+                    "type": "Passenger",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 2000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 2000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 2000
+                },
+                {
+                    "id": "92c01c47-7104-d735-3d96-47f9",
+                    "name": "PL4",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827eb96a7dc",
+                            "name": "Bosch Test Sensor",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "MonoSpace 500",
+                    "oemName": "Kone",
+                    "type": "Passenger",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 2000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 2000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 2000
+                },
+                {
+                    "id": "4014cec2",
+                    "name": "Freight Elevator 1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "SensorID-007",
+                            "name": "Elevator Sensor 007",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "TranSys",
+                    "oemName": "Kone",
+                    "type": "Freight Elevator",
+                    "capacity": 15000,
+                    "speed": "1,6 m/s",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 10,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 20000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 20000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 100
+                },
+                {
+                    "id": "657f9700-c0cd-bda7-32a9-295e",
+                    "name": "Freight Elevator 2",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "TranSys",
+                    "oemName": "Kone",
+                    "type": "Freight Elevator",
+                    "capacity": 15000,
+                    "speed": "1,6 m/s",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 10,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 20000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 20000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 100
+                },
+                {
+                    "id": "807ccbc0-a296-4cf8-3efb-9965",
+                    "name": "Sensor Demo",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827eb4afe92",
+                            "name": "Bosch Elevator Sensor (b827eb4afe92)",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {},
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "Simulated",
+                    "oemName": "KONE",
+                    "type": "Passenger",
+                    "capacity": 1050,
+                    "speed": "1050",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "Kone",
+                    "minOpenDoorTime": 5,
+                    "maxOpenDoorTime": 10000,
+                    "minCloseDoorTime": 5,
+                    "maxCloseDoorTime": 10000,
+                    "minStrokeBuffer": 5,
+                    "maxStrokeBuffer": 20000
+                }
+            ]
+        },
+        {
+            "id": "7dc95405-c7e2-5ddc-4ed5-0a74",
+            "name": "SGP 100",
+            "description": null,
+            "lmsDeviceZones": [],
+            "devices": [],
+            "floorPlanSerialId": null,
+            "polygonLinks": [],
+            "tags": {
+                "associatedCapability": []
+            },
+            "domainInformations": {
+                "energyDomainInformation": {
+                    "name": null,
+                    "topologyElementConfiguration": {
+                        "weekdayConfigurations": {
+                            "MONDAY": "00:00",
+                            "TUESDAY": "00:00",
+                            "WEDNESDAY": "00:00",
+                            "THURSDAY": "00:00",
+                            "FRIDAY": "00:00",
+                            "SATURDAY": "00:00",
+                            "SUNDAY": "00:00"
+                        }
+                    }
+                }
+            },
+            "address": null,
+            "latitude": 0,
+            "longitude": 0,
+            "floors": [
+                {
+                    "id": "d791484a-5b1d-4832-b72c-38e2a35cd799",
+                    "name": "Basement 2",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "d8d01de3-57d2-4fb8-856a-6321cfbcabc5",
+                    "name": "Basement 1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "63b2deed-cec1-4758-a73c-f5a466207fe5",
+                    "name": "1st Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "60298f08-7a74-46b7-a283-bd65a82007fb",
+                    "name": "2nd Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "95120537-0d2b-43f0-8263-52942b48426a",
+                    "name": "3rd Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "c5010a1c-b019-4551-aaf9-ddce520403c5",
+                    "name": "4th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "6c1f3fc0-36fc-4017-91cf-c2cd9a3f3847",
+                    "name": "5th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                },
+                {
+                    "id": "13d6923b-72d0-4bd1-965b-b005541422e3",
+                    "name": "6th Floor",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": null,
+                    "rooms": []
+                }
+            ],
+            "elevators": [
+                {
+                    "id": "999a80f7-f7bd-4333-ab4b-0a2d7f9e4883",
+                    "name": "PL1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "SensorID-001",
+                            "name": "Elevator Sensor 001",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "Model",
+                    "oemName": "Kone",
+                    "type": "MonoSpace 500",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 10,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 10000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 10000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 20000
+                },
+                {
+                    "id": "16ce53e0-b88d-45c0-96f8-4dcde651c7f7",
+                    "name": "PL2",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "SensorID-002",
+                            "name": "Elevator Sensor 002",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "MonoSpace 500",
+                    "oemName": "Kone",
+                    "type": "Passenger",
+                    "capacity": 1150,
+                    "speed": "1.75",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 15,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 2000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 2000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 2000
+                },
+                {
+                    "id": "80985f76-b4d3-4ad0-827f-348d",
+                    "name": "Freight Elevator",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": "TranSys",
+                    "oemName": "Kone",
+                    "type": "Freight Elevator",
+                    "capacity": 15000,
+                    "speed": "1,6 m/s",
+                    "typeOfDoor": "Center Opening",
+                    "carSize": 10,
+                    "maintenanceBy": "KONE GmbH",
+                    "minOpenDoorTime": 0,
+                    "maxOpenDoorTime": 20000,
+                    "minCloseDoorTime": 0,
+                    "maxCloseDoorTime": 20000,
+                    "minStrokeBuffer": 0,
+                    "maxStrokeBuffer": 100
+                }
+            ]
+        },
+        {
+            "id": "f73f65fd-3157-dbea-c98b-8ada",
+            "name": "Wa2",
+            "description": null,
+            "lmsDeviceZones": [],
+            "devices": [],
+            "floorPlanSerialId": null,
+            "polygonLinks": [],
+            "tags": {
+                "associatedCapability": []
+            },
+            "domainInformations": {
+                "energyDomainInformation": {
+                    "name": null,
+                    "topologyElementConfiguration": {
+                        "weekdayConfigurations": {
+                            "MONDAY": "00:00",
+                            "TUESDAY": "00:00",
+                            "WEDNESDAY": "00:00",
+                            "THURSDAY": "00:00",
+                            "FRIDAY": "00:00",
+                            "SATURDAY": "00:00",
+                            "SUNDAY": "00:00"
+                        }
+                    }
+                }
+            },
+            "address": "",
+            "latitude": 0,
+            "longitude": 0,
+            "floors": [],
+            "elevators": [
+                {
+                    "id": "82e06dde-0323-9236-ed2e-ae64",
+                    "name": "PL1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827eba1161d",
+                            "name": "Bosch Elevator Sensor (Joerg)",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": null,
+                    "oemName": null,
+                    "type": null,
+                    "capacity": null,
+                    "speed": null,
+                    "typeOfDoor": null,
+                    "carSize": null,
+                    "maintenanceBy": null,
+                    "minOpenDoorTime": null,
+                    "maxOpenDoorTime": null,
+                    "minCloseDoorTime": null,
+                    "maxCloseDoorTime": null,
+                    "minStrokeBuffer": null,
+                    "maxStrokeBuffer": null
+                }
+            ]
+        },
+        {
+            "id": "a454e396-1e84-9d11-0db3-eabf",
+            "name": "Building Model",
+            "description": null,
+            "lmsDeviceZones": [],
+            "devices": [],
+            "floorPlanSerialId": null,
+            "polygonLinks": [],
+            "tags": {
+                "associatedCapability": []
+            },
+            "domainInformations": {
+                "energyDomainInformation": {
+                    "name": null,
+                    "topologyElementConfiguration": {
+                        "weekdayConfigurations": {
+                            "MONDAY": "00:00",
+                            "TUESDAY": "00:00",
+                            "WEDNESDAY": "00:00",
+                            "THURSDAY": "00:00",
+                            "FRIDAY": "00:00",
+                            "SATURDAY": "00:00",
+                            "SUNDAY": "00:00"
+                        }
+                    }
+                }
+            },
+            "address": "",
+            "latitude": 0,
+            "longitude": 0,
+            "floors": [],
+            "elevators": [
+                {
+                    "id": "1421d05f-cddf-d9b5-8e60-719f",
+                    "name": "Demonstrator",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827ebac3c10",
+                            "name": "Bosch Elevator Sensor (b827ebac3c10)",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null,
+                    "polygonLinks": [],
+                    "tags": {
+                        "associatedCapability": []
+                    },
+                    "domainInformations": {
+                        "energyDomainInformation": {
+                            "name": null,
+                            "topologyElementConfiguration": {
+                                "weekdayConfigurations": {}
+                            }
+                        }
+                    },
+                    "model": null,
+                    "oemName": null,
+                    "type": null,
+                    "capacity": null,
+                    "speed": null,
+                    "typeOfDoor": null,
+                    "carSize": null,
+                    "maintenanceBy": null,
+                    "minOpenDoorTime": null,
+                    "maxOpenDoorTime": null,
+                    "minCloseDoorTime": null,
+                    "maxCloseDoorTime": null,
+                    "minStrokeBuffer": null,
+                    "maxStrokeBuffer": null
+                }
+            ]
+        }
+    ],
+    "validFrom": null,
+    "validTo": null
+}]

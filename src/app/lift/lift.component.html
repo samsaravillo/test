@@ -1,0 +1,29 @@
+
+<div class="row">
+  <div class="col-12">
+    <div *ngFor="let activities of activities$">
+        <p>ID: {{ activities.id }}</p>
+        <p>Type: {{ activities.type }}</p>
+        <p>Action: {{ activities.payload.action }}</p>
+        <p>Number: {{ activities.payload.issue }}</p>
+    </div>
+  </div>
+</div>
+
+<hr>
+<div *ngFor="let todo of todos">
+  <h3>{{ todo.title }}</h3>
+  <p>{{ todo.description }}</p>
+</div>
+
+<hr>
+
+<h1>Books</h1>
+
+<ul>
+  <li *ngFor="let book of books$">
+    <a routerLink="">{{ book.Title }}</a>
+    <p>{{ book.Description }}</p>
+    <p>{{ book.PageCount }}</p>
+  </li>
+</ul>

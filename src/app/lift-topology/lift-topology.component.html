@@ -1,0 +1,22 @@
+
+<p>
+  lift-topology works! asdf
+</p>
+<div class="row" *ngFor="let lift of lmLifts$">
+  <div class="col-4">
+    {{ lift.name }}
+  </div>
+  <div class="col-4" *ngFor="let building of lift.buildings">
+    {{ building.name }}
+  </div>
+
+</div>
+
+<ul *ngFor="let group of peopleByCountry"> 
+  <li>{{ group.country }}</li>
+  <ul>
+   <li *ngFor="let person of group.people"> 
+     {{ person.name }}
+   </li>
+  </ul>
+</ul>

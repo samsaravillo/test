@@ -1,0 +1,34 @@
+{
+    "id": "5a1e0c01c2c29108bc0b1db6",
+    "name": "Robert Bosch SEA Campus",
+    "description": null,
+    "buildings": [
+        {
+            "id": "80985f76-b4d3-4ad0-827f-348f",
+            "name": "SGP 101",
+            "description": null,
+            "lmsDeviceZones": [],
+            "devices": [],
+            "elevators": [
+                {
+                    "id": "1aa8bba1-47c5-302c-3f4e-94a8",
+                    "name": "PL1",
+                    "description": null,
+                    "lmsDeviceZones": [],
+                    "devices": [
+                        {
+                            "id": "b827ebd407b5",
+                            "name": "Bosch Test Sensor",
+                            "parentHierarchy": null,
+                            "masterDataType": null,
+                            "externalRef": null
+                        }
+                    ],
+                    "floorPlanSerialId": null
+                }
+            ]
+        }
+    ],
+    "validFrom": null,
+    "validTo": null
+}
